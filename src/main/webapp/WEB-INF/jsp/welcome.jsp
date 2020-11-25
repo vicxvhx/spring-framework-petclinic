@@ -7,6 +7,7 @@
     <h2><fmt:message key="Bonjour"/></h2>
     <div class="row">
         <div class="col-md-12">
+        ggggggg
             <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
             <img class="img-responsive" alt="A cat and a dog" src="${petsImage}"/>
         </div>
